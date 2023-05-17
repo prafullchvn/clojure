@@ -1,0 +1,1 @@
+(defn simple-interest [principal time rate] (/ (* principal (* time rate)) 100))
